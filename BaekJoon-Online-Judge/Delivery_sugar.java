@@ -1,5 +1,6 @@
 import java.util.*;
 
+
 public class Delivery_sugar {
 	public static void main(String[] args) {
 		Scanner input = new Scanner(System.in);
